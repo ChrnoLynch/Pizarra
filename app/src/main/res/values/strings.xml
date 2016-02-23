@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pizarra</string>
+    <string name="formas">Formas</string>
+    <string name="colores">Colores</string>
+    <string name="control">Control</string>
+    <string name="drawer_open">Control</string>
+    <string name="drawer_close">Control</string>
+    <string name="title_activity_main_activityasd">MainActivityasd</string>
+</resources>
